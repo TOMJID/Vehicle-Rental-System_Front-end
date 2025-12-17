@@ -53,9 +53,9 @@ A modern, responsive frontend application for the Vehicle Rental System built wi
    ```
 
 2. **Install dependencies:**
-```bash
+   ```bash
    npm install
-```
+   ```
 
 3. **Set up Environment Variables:**
    Create a .env.local file in the root directory:
