@@ -50,7 +50,7 @@ A modern, responsive frontend application for the Vehicle Rental System built wi
    ```bash
    git clone https://github.com/TOMJID/Vehicle-Rental-Frontend.git
    cd Vehicle-Rental-Frontend
-```
+   ```
 
 2. **Install dependencies:**
 ```bash
